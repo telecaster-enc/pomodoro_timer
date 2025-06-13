@@ -4,7 +4,7 @@ This is my first Python GUI project — a **Pomodoro Timer** built using `Custom
 
 ![screenshot](assets/banner.png)
 ![screenshot](assets/screenshot.png)
-![screenshot](assets/screenshot2.png)
+
 
 ---
 
