@@ -1,6 +1,6 @@
 # Pomodoro Timer 🕒
 
-This is my first Python GUI project — a **Pomodoro Timer** built using `CustomTkinter`, featuring customizable work and break durations, sound alerts, and a clean UI.
+This is my first Python GUI project, a **Pomodoro Timer** built using `CustomTkinter`, featuring customizable work and break durations, sound alerts, and a clean UI.
 
 ![screenshot](assets/banner.png)
 ![screenshot](assets/screenshot.png)
